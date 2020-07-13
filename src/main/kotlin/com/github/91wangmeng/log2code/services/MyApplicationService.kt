@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.91wangmeng.log2code.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.91wangmeng.log2code.MyBundle
 
 class MyApplicationService {
 
